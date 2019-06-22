@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setting name="常见问题配置文件">
+  <FAQ>
+	  <data>
+      <item id="1" questionTitle="Q1：为什么我的客户端无法使用课件？" answerTitle="请确认您的账号有效并拥有运行课件的权限。"/>
+      <item id="2" questionTitle="Q2：我误删了课件，还能找回吗？" answerTitle="您可以从【课件列表】中重新下载已经购买过的课件。"/>
+      <item id="3" questionTitle="Q3：为什么我的3D发射器连接计算机并打开后，指示灯是红色？" answerTitle="请确保3D发射器正确连接了计算机，并且计算机上的NVIDIA驱动程序已是最新版本；若不是，请参照《产品使用手册》，下载最新的驱动程序，然后安装运行。"/>
+      <item id="4" questionTitle="Q4：为什么我使用趣上课VR课件时，没有3D立体视觉？" answerTitle="请确保3D发射器正确连接了计算机，并处于运行中；请确保3D液晶显示器正确连接了计算机，并且接通电源；请确保计算机已启用3D立体视觉，若没有，请参照《产品使用手册》相关指示进行设置；请确保3D眼镜已充分充电，并且与发射器之间没有遮挡物。"/>
+      <item id="5" questionTitle="Q5：为什么我开机后立刻运行趣上课，使用课件时的3D立体效果不好？" answerTitle="使用刷新率120Hz以上的3D显示器时，想要获得最佳3D立体图像质量，请让显示器有一个短时间的暖机过程。"/>
+	  </data>
+	  <more title="更多问题" url="http://bjsobf.cn/edu/index.html"/>
+  </FAQ>
+</setting>

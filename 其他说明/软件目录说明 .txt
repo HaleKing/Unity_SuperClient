@@ -1,0 +1,8 @@
+   config    软件ip,port，教室学生数量及使用者类型;投影机型号及使用配置
+   dataInfo 软件多语言化，消息，问题等配置表
+   defaultQSK 默认软件自带的课件
+   downCache 课件临时下载缓存区(下载完成自动删除)
+   help      软件帮助教程
+   install   软件更新后，下载的安装程序
+   qsk       软件已已经解压的课件列表
+   runCache  软件已经安装的课件列表标识

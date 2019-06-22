@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<setting name="消息">
+  <data>
+    <name>欢迎使用趣上课！</name>
+    <message>趣上课是新一代VR互动教育产品，利用VR技术为学生打造高度开放、可交互、沉浸式的三维学习环境，让学生通过身临其境的探索，激发和加速对知识的理解记忆。我们的官网是www.bjsobf.com  </message>
+    <date>2017-05-15 10:58</date>
+  </data>
+  <data>
+    <name>客户端版本更新</name>
+    <message>您的客户端版本已成功更新至1.1.6</message>
+    <date>2017-03-10 16:57:36.0</date>
+  </data>
+  <data>
+    <name>客户端版本更新</name>
+    <message>您的客户端版本已成功更新至2.2.0</message>
+    <date>2017-05-18 13:25:03.0</date>
+  </data>
+  <data>
+    <name>客户端版本更新</name>
+    <message>您的客户端版本已成功更新至2.2.0</message>
+    <date>2017-05-18 13:25:03.0</date>
+  </data>
+</setting>
